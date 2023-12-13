@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-platotipico-alvarez/static/css/main.a6067394.css",
+    "main.js": "/react-platotipico-alvarez/static/js/main.d2afc693.js",
+    "static/js/787.8459d57d.chunk.js": "/react-platotipico-alvarez/static/js/787.8459d57d.chunk.js",
+    "static/media/bolivia1.png": "/react-platotipico-alvarez/static/media/bolivia1.b27a1339fe839e13982e.png",
+    "static/media/platopaceno.jpg": "/react-platotipico-alvarez/static/media/platopaceno.04912d3665b08f36f440.jpg",
+    "static/media/platotipico1.jpg": "/react-platotipico-alvarez/static/media/platotipico1.1d8c3f67a5118ff4d85d.jpg",
+    "static/media/bolivia2.jpg": "/react-platotipico-alvarez/static/media/bolivia2.3531b87757c7d12801a4.jpg",
+    "static/media/Rangaimagen.jpg": "/react-platotipico-alvarez/static/media/Rangaimagen.562c8cb497fbef51ff27.jpg",
+    "static/media/pexels-bruno-cervera-3062948.jpg": "/react-platotipico-alvarez/static/media/pexels-bruno-cervera-3062948.2e9b15e233e28310e803.jpg",
+    "static/media/pandearroz.jpg": "/react-platotipico-alvarez/static/media/pandearroz.da03f315dc76109e784d.jpg",
+    "static/media/calapurcaimagen.jpg": "/react-platotipico-alvarez/static/media/calapurcaimagen.ebea8e2cb2edb59df12e.jpg",
+    "static/media/fabri4.jpg": "/react-platotipico-alvarez/static/media/fabri4.f56b66a30e0f4bc2b469.jpg",
+    "static/media/fritanga2.jpg": "/react-platotipico-alvarez/static/media/fritanga2.4c6641a32c5c9c5dd0f2.jpg",
+    "static/media/fabri2.jpg": "/react-platotipico-alvarez/static/media/fabri2.6d99eb16670332567f48.jpg",
+    "static/media/majadito1.jpg": "/react-platotipico-alvarez/static/media/majadito1.d43bced158d198e4b8f9.jpg",
+    "static/media/thimpu5.jpg": "/react-platotipico-alvarez/static/media/thimpu5.3c7cafaf7a95053fbfc2.jpg",
+    "static/media/piquemachof.jpg": "/react-platotipico-alvarez/static/media/piquemachof.ff727e41513b69557a4b.jpg",
+    "static/media/thimpuimagen.jpg": "/react-platotipico-alvarez/static/media/thimpuimagen.c24a13b8b8254288f8b1.jpg",
+    "static/media/icons8-acción-de-gracias-94.png": "/react-platotipico-alvarez/static/media/icons8-acción-de-gracias-94.5f2a261a1ee8e9b66cd6.png",
+    "index.html": "/react-platotipico-alvarez/index.html",
+    "main.a6067394.css.map": "/react-platotipico-alvarez/static/css/main.a6067394.css.map",
+    "main.d2afc693.js.map": "/react-platotipico-alvarez/static/js/main.d2afc693.js.map",
+    "787.8459d57d.chunk.js.map": "/react-platotipico-alvarez/static/js/787.8459d57d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6067394.css",
+    "static/js/main.d2afc693.js"
+  ]
+}
